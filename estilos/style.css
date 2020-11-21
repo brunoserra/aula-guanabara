@@ -14,3 +14,11 @@ main {
     padding: 10px;
     box-shadow: 4px 4px 6px darkred;
 }
+
+img.imagens {
+    width: 200px;
+}
+
+img.imagens {
+    float: right;
+}
